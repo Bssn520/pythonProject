@@ -44,6 +44,7 @@ print("This is the first three number in test:")
 for test2 in test[0:3]:
     print(test2)
 
+
 #复制列表
 my_food = ['pizza','chick', 'ice cream']
 print(my_food)
