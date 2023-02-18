@@ -1,5 +1,5 @@
 # encoding: utf-8
-filename = 'Text_files/Love_pthon.txt'
+filename = 'Text_files/Love_python.txt'
 
 # 第一次打印读取整个文件
 with open(filename) as file_object:
